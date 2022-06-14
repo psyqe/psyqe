@@ -24,6 +24,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=psyqe&show_icons=true&theme=dark&locale=en" alt="psyqe" /></p>
 
-<!-->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=psyqe&theme=dark" alt="psyqe" /></p>
-<-->
+<!--
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=psyqe&theme=dark" alt="psyqe" /></p> -->
