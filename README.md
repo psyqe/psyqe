@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psyqe&label=Profile%20views&color=20a773&style=flat" alt="psyqe" /> </p>
 
-[//]: # <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=psyqe" alt="psyqe" /></a> </p>
+[//]: <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=psyqe" alt="psyqe" /></a> </p>
 
 - 🌱 I’m currently learning **data science.**
 
@@ -26,7 +26,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=psyqe&show_icons=true&theme=dark&locale=en&layout=compact" alt="psyqe" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=psyqe&show_icons=true&theme=dark&locale=en" alt="psyqe" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=psyqe&show_icons=true&theme=dark&locale=en" alt="psyqe" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=psyqe&theme=dark" alt="psyqe" /></p>
 
